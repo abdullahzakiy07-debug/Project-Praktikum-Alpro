@@ -1,0 +1,33 @@
+apel
+pasar
+76
+bayam
+pasar
+77
+kangkung
+pasar
+19
+keju
+keju
+44
+mie
+mieID
+212
+nasi
+pasar
+28
+pisang
+PT pisang
+400
+roti
+pasar
+230
+sawi
+pasar
+45
+susu
+PT BIJE
+180
+wortel
+pasar
+35
